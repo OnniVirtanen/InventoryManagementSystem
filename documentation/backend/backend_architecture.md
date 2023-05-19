@@ -1,4 +1,4 @@
-# This is a documentation of the IMS(Inventory Management System) backend architecture.
+# The IMS's(Inventory Management System) backend architecture.
 
 The architecture’s main point is to be easy to build and maintain. The microservices can be built with any programming language excluding api-gateway, authentication service and netflix-eureka-service-registry. Those are built with Java spring-boot.
 
