@@ -9,10 +9,13 @@ Every detail about this microservice is documented here.
 ## 3 Layer architecture
 
 The architecture of this service is divided into three parts.
-### Apilayer
+### API Layer
+Apilayer has REST endpoints. The layer handles http requests.
 
-### Business logic
+### Business logic Layer
+Business logic is handled here.
 
-### Data access
+### Data-access Layer
+Data-access layer is responsible for handling database connectivity.
 
 
